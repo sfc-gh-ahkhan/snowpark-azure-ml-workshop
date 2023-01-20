@@ -2,7 +2,7 @@
 
 ### SETUP
 
-1. Open the terminal and clone the workshop repository: https://github.com/filanthropic/snowpark-azure-ml-workshop
+1. Open the terminal and clone the workshop repository: `git clone https://github.com/filanthropic/snowpark-azure-ml-workshop`
 
 2. Login to Azure ML Studio and select an existing workspace or create a new one: https://portal.azure.com/#home
 
